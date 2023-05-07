@@ -29,4 +29,4 @@ This project is under the MIT license. See the file <a href="https://github.com/
 
 ---
 
-<p align="center">by Pedro Borges.</p>
+by Pedro Borges.
